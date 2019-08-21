@@ -21,3 +21,7 @@ Structure should be that the master branch is your release branch, develop branc
 1. checkout your branch again
 	* `git checkout [myBranchNameNoBrackets]`
 1. continue working on your contributions
+
+
+blah blah blah CHANGES!!!!!!
+YAR
