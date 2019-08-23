@@ -1,4 +1,4 @@
-# Git Instructions
+# Git Cheatsheet
 
 Structure should be that the master branch is your release branch, development branch is the beta/alpha branch, and each dev has their own branch that feeds into development.
 
